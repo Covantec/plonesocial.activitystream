@@ -4,6 +4,8 @@ Changelog
 0.7.0 (unreleased)
 ------------------
 
+* Updated Spanish translation
+  [macagua]
 * Portlets can work on Plone4 and on Plone5
 * The stream view has been moved to plonesocial.core
 * Rename @@profile -> @@author (Assembla #228)
